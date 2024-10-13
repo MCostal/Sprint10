@@ -1,0 +1,26 @@
+Origen de datos
+ramaderes - datos iniciales descargados de GENCAT
+ACA-Consulta_de_dades_del_medi - datos de analíticas de agua NO3
+superficies_comarques - datos brutos superficies comarcas descargado de Idescat
+
+SQL
+ramaderes2 - transformación de datos brutos ramaderes.
+estrella_ramaderes - modelo de estrella base de datos inicial
+
+Python
+comarcas.geojson - archivo de las comarcas de cataluña con polígonos
+comarcas - archivo en formato TopoJson para cargar en Power BI
+nitrats - archivo de transformación de los datos de aguas (ACA)
+mapa_exploraciones_comarca - Transformación y análisis estadísticos
+
+Power BI
+proyecto_ramaderas - Proyecto en Power BI para realizar dashboard
+Dashboard - Documento final
+
+
+Memória - descripción del proyecto
+Presentación - Documento para guia presentación power point (también en formato pdf)
+
+
+
+
