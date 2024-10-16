@@ -1,0 +1,4 @@
+VARIABLES,Estadístico, p-Valor, Resultado
+Concentración URM, 0.846, 0.003, Probably not Gaussian
+Concentración Nitrógeno, 0.889, 0.018, Probably not Gaussian
+Valor mg/l NO3, 0.728, 0.000, Probably not Gaussian
